@@ -1,3 +1,8 @@
+Caso practico, Analisis de datos certificacion.
+Con mucho gusto presento mi caso practico para la certificaion de google en Analisis de datos, este estudio tiene como principal objetivo utilizar diferentes herramientas para la limpieza y mostreo de datos.
+Se utilizara programacion en R, utilizando Posit Cloud.
+
+
 # Bellabeat-case
 bellabeat-custumer-behavior
 
